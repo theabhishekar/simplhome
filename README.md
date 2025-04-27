@@ -107,7 +107,9 @@ The agent has access to the following tools:
     gcloud services enable aiplatform.googleapis.com
     ```
 
-1.  Clone the repository:
+## I have used Vapi for building Voice agent in custom or you can use free ADK to build Custom Customer Service Agent. 
+
+1.  Clone the sample ADK from Git for free:
 
     ```bash
     git clone https://github.com/google/adk-samples.git

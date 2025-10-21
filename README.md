@@ -4,7 +4,7 @@ This project implements an AI-powered customer service agent for Cymbal Home & G
 
 ## Overview
 
-The Cymbal Home & Garden Customer Service Agent is designed to provide a seamless and personalized shopping experience for customers. It leverages Gemini to understand customer needs, offer tailored product recommendations, manage orders, and schedule services. The agent is designed to be friendly, empathetic, and highly efficient, ensuring that customers receive the best possible service.
+The Cymbal Home & Garden Customer Service Agent is designed to provide seamless and personalized shopping experience for customers. It leverages Gemini to understand customer needs, offer tailored product recommendations, manage orders, and schedule services. The agent is designed to be friendly, empathetic, and highly efficient, ensuring that customers receive the best possible service.
 
 ## Agent Details
 
